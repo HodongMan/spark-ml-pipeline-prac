@@ -1,0 +1,1 @@
+sbt "runMain io.hodong.mlpipeline.PipelineExample"

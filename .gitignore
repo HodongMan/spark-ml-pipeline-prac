@@ -1,0 +1,10 @@
+/.bsp/
+target/
+/.metals/
+.metals/
+/.vscode
+.vscode/
+
+null
+
+null/
